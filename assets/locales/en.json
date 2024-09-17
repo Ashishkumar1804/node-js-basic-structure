@@ -1,0 +1,5 @@
+{
+    "jwt_invalid_token": "Invalid token, please login again",
+    "jwt_expired_token": "Token Expired, please logIn again",
+    "invalid_oject_id": "Invalid id $_id, Please provide a valid id"
+}
